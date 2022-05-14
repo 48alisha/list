@@ -1,3 +1,5 @@
 mango 
 apple
-banana
+cherry
+watermelon
+melon
